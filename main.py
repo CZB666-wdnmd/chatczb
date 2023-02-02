@@ -1,5 +1,5 @@
 import os
-print('linux需要wget')
+print('注：linux需要wget')
 while True:
     u = input('输入问题(ctrl+c退出)')
     s = os.name
