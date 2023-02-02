@@ -1,6 +1,6 @@
 import os
 print('linux需要wget')
-while true:
+while True:
     u = input('输入问题')
     s = os.name
     if s == posix:
